@@ -267,7 +267,7 @@ input[type=email] {
     color: var(--Dark-07, #F3F3F3);
     font-size: 18px;
     font-weight: 400;
-    padding-right: 20px;
+    padding-left: 20px;
 }
 
 .button-no3 {
